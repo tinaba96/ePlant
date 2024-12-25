@@ -372,4 +372,5 @@ https://bar.utoronto.ca/eplant/
 
 ### API
 
-It is not the smartest approach, but please use the browser's Developer Console and poke around ePlant2 to find the BAR APIs that you need to call.
+> [!IMPORTANT]
+> It is not the smartest approach, but please use the browser's Developer Console and poke around ePlant2 to find the BAR APIs that you need to call.
